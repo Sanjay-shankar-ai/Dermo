@@ -1,5 +1,9 @@
 # Dermatology Disease Prediction & Explanation Using Deep learning 
+## Model Accuracy 
+![Screenshot (73)](https://github.com/Sanjay-shankar-ai/Dermo/assets/94231938/19613b8a-506a-4dc0-907a-33c2f39df58d)
 
+
+## Model Output
 ![Screenshot (75)](https://github.com/Sanjay-shankar-ai/Dermo/assets/94231938/e20455b0-1e70-44f6-b4fe-13fd8e5f89b5)
 
 
