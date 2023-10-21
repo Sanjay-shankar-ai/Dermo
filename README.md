@@ -1,4 +1,4 @@
-# Dermotology Disease Prediction & Explanation Using Deep learning 
+# Dermatology Disease Prediction & Explanation Using Deep learning 
 
 ![Screenshot (75)](https://github.com/Sanjay-shankar-ai/Dermo/assets/94231938/e20455b0-1e70-44f6-b4fe-13fd8e5f89b5)
 
