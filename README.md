@@ -1,4 +1,4 @@
-# Dermatology Disease Prediction & Explanation Using Deep learning 
+# Dermatology Disease Prediction & Explanation System Using Deep learning 
 
 ## Problem Statement
 ```
