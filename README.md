@@ -6,16 +6,41 @@ To Develop an AI-based model that can predict dermatology Diseases and Explanati
 ```
 ## Innovative Solution
 ```
- The project began with the acquisition of a diverse and labeled dataset of dermatological images. This dataset recognized for its quality and relevance, formed the cornerstone of our project. Data Augmentation techniques were applied to enhance dataset diversity. The modal was created using a Convolutional Neural Network (CNN), why CNN? – CNN plays a Vital role in image-related processes due to its ability to automatically extract features, understand spatial hierarchies, and be robust to image variations, also offers translation invariance and scalability, making it effective for recognizing complex patterns.Trained the model using the dermatology dataset, finetuning it to improve its prediction accuracy. Modal performance and reliability are validated by cross-validation and validation sets. A key attribute of our model is its ability to provide easily understandable explanations alongside its predictions, making it more accessible and user-friendly
+The project began with the acquisition of a diverse and labeled 
+dataset of dermatological images. This dataset recognized for its 
+quality and relevance, formed the cornerstone of our project. Data 
+Augmentation techniques were applied to enhance dataset diversity. 
+The modal was created using a Convolutional Neural Network (CNN), 
+why CNN? – CNN plays a Vital role in image-related processes due to 
+its ability to automatically extract features, understand spatial 
+hierarchies, and be robust to image variations, also offers translation 
+invariance and scalability, making it effective for recognizing complex 
+patterns.Trained the model using the dermatology dataset,finetuning
+it to improve its prediction accuracy. Modal performance and 
+reliability are validated by cross-validation and validation sets. A key 
+attribute of our model is its ability to provide easily understandable 
+explanations alongside its predictions, making it more accessible and 
+user-friendly.
+
 ```
 ## Future Scope 
 ```
-Continuous Improvement of the model accuracy through user feedback and updated data. To reach a broader audience, working on the development of mobile applications ensuring that our model(solution) will be accessible through smartphones making it convenient and widely available. Reaching rural regions with low network features and Medical camp features connecting users with healthcare services in underserved regions
+Continuous Improvement of the model accuracy through user 
+feedback and updated data. To reach a broader audience, working on 
+the development of mobile applications ensuring that our 
+model(solution) will be accessible through smartphones making it 
+convenient and widely available. Reaching rural regions with low 
+network features and Medical camp features connecting users with 
+healthcare services in underserved regions
 ```
 
 ## Wow Factor
 ```
-Model Can able to predict a wide range of skin diseases, making it a valuable tool for dermatological Health. In-Depth Information – Beyond diagnosis, our model offers detailed explanations that encompass the causes, symptoms, risk factors, and treatment plan for an identified skin condition
+Model Can able to predict a wide range of skin diseases, making it a 
+valuable tool for dermatological Health. In-Depth Information –
+Beyond diagnosis, our model offers detailed explanations that 
+encompass the causes, symptoms, risk factors, and treatment plan 
+for an identified skin condition
 ```
 
 ## Technical Stack
