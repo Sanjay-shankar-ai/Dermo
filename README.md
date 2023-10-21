@@ -1,5 +1,10 @@
 # Dermotology Disease Prediction Using Deep learning 
 
+## Model Knowledge : 
+```
+https://drive.google.com/file/d/1RzR8Nv7o9z7sNa1KgdQeOwDviEaLTkJW/view?usp=share_link
+```
+
 ## Problem Statement
 ```
 To Develop an AI-based model that can predict dermatology Diseases and Explanation System.
