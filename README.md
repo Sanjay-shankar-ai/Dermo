@@ -1,4 +1,10 @@
 # Dermatology Disease Prediction & Explanation Using Deep learning 
+
+## Problem Statement
+```
+To Develop an AI-based model that can predict dermatology Diseases and Explanation System.
+```
+
 ## Model Accuracy 
 ![Screenshot (73)](https://github.com/Sanjay-shankar-ai/Dermo/assets/94231938/19613b8a-506a-4dc0-907a-33c2f39df58d)
 
@@ -12,10 +18,6 @@
 https://drive.google.com/file/d/1RzR8Nv7o9z7sNa1KgdQeOwDviEaLTkJW/view?usp=share_link
 ```
 
-## Problem Statement
-```
-To Develop an AI-based model that can predict dermatology Diseases and Explanation System.
-```
 ## Innovative Solution
 ```
 The project began with the acquisition of a diverse and labeled 
